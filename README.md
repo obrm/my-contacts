@@ -1,7 +1,7 @@
 # My Contacts
 
 > Full stack MERN contact manager with React hooks, context & JWT authentication.
-> Sign Up, Sign In, Add, Retrieve, Update & Delete Contacts.
+> Sign Up, Sign In, Add, Search, Update & Delete Contacts.
 
 ## Visit final project at
 
