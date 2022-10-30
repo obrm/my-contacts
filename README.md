@@ -3,10 +3,6 @@
 > Full stack MERN contact manager with React hooks, context & JWT authentication.
 > Sign Up, Sign In, Add, Search, Update & Delete Contacts.
 
-## Visit final project at
-
-https://obrm-my-contacts.herokuapp.com/login
-
 ## Usage
 
 Install dependencies
